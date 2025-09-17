@@ -1,2 +1,2 @@
 # git-equipe-java
-Atividade em Grupo na UC de Gestão de Qualidade
+Linha da equipe (edite ESTA MESMA LINHA para criar conflito): Equipe = [PREENCHER AQUI]
