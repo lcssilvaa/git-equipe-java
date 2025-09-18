@@ -15,7 +15,8 @@ public class Calc {
 
     // Pessoa C
     public int multiplicacao(int a, int b) {
-        
+
         return a * b; 
+
     }
 }
