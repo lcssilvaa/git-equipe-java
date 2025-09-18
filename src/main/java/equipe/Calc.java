@@ -1,4 +1,4 @@
-package com.exemplo.equipe;
+package equipe;
 
 public class Calc {
     // Pessoa A
@@ -9,13 +9,13 @@ public class Calc {
 
     // Pessoa B
     public int subtracao(int a, int b) {
-        // TODO: implementar
-        return 0; 
+        
+        return a - b; 
     }
 
     // Pessoa C
     public int multiplicacao(int a, int b) {
-        // TODO: implementar
-        return 0; 
+        
+        return a * b; 
     }
 }

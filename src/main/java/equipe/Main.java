@@ -1,4 +1,4 @@
-package com.exemplo.equipe;
+package equipe;
 
 public class Main {
     public static void main(String[] args) {
